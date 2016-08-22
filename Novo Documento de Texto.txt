@@ -1,5 +1,2 @@
-teste
-
+﻿teste
 arquivo modificado na branch test
-
-alterando coisas na branch 2
