@@ -1,3 +1,5 @@
 ﻿teste
 arquivo modificado na branch test
 aletando por cima
+alterando documento de texto na stage
+aaa
